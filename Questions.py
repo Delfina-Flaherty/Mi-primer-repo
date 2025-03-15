@@ -69,3 +69,4 @@ for questions, possible_answers, correct_index in questions_answers:
         print()
 #Muestro el puntaje final de la partida
 print(f"Tu puntaje final es: {score:2f}")
+print()
